@@ -1,1 +1,1 @@
-[2022-05-02T19:12:47+00:00] refactor: optimize SQL query performance and indexing
+[2022-05-02T19:36:08+00:00] feat: webhook listeners and async event dispatching
