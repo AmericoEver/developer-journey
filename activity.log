@@ -1,1 +1,1 @@
-[2022-07-28T17:30:57+00:00] feat: database schema design and relational migration scripts
+[2022-07-28T21:36:25+00:00] security: input sanitization, CSRF token and XSS protection
