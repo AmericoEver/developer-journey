@@ -1,1 +1,1 @@
-[2022-12-05T20:56:22+00:00] docs: update API documentation, swagger schemas and deployment guides
+[2022-12-05T09:03:33+00:00] fix: resolve race conditions in inventory management
