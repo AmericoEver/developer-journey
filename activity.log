@@ -1,1 +1,1 @@
-[2023-01-30T20:05:49+00:00] feat: implement initial system architecture and MVC structure
+[2023-01-31T12:07:45+00:00] security: input sanitization, CSRF token and XSS protection
