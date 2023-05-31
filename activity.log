@@ -1,1 +1,1 @@
-[2023-05-31T17:45:05+00:00] feat: REST API endpoints and JSON response formatting
+[2023-05-31T16:01:26+00:00] fix: resolve race conditions in inventory management
