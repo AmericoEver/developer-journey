@@ -1,1 +1,1 @@
-[2024-02-19T14:47:24+00:00] refactor: modularize backend services and error handling
+[2024-02-19T21:59:17+00:00] feat: user authentication and role-based access control (RBAC)
