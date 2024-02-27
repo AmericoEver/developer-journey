@@ -1,1 +1,1 @@
-[2024-02-27T17:39:29+00:00] chore: setup Docker containerization and environment variables
+[2024-02-27T15:20:20+00:00] security: input sanitization, CSRF token and XSS protection
