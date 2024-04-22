@@ -1,1 +1,1 @@
-[2024-04-22T11:14:23+00:00] docs: update API documentation, swagger schemas and deployment guides
+[2024-04-22T18:53:43+00:00] security: input sanitization, CSRF token and XSS protection
