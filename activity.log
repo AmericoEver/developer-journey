@@ -1,1 +1,1 @@
-[2024-06-05T20:03:49+00:00] feat: integration with cloud storage and file upload service
+[2024-06-05T19:50:37+00:00] security: input sanitization, CSRF token and XSS protection
