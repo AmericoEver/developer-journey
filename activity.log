@@ -1,1 +1,1 @@
-[2024-06-24T19:54:55+00:00] chore: setup Docker containerization and environment variables
+[2024-06-24T18:23:58+00:00] feat: webhook listeners and async event dispatching
