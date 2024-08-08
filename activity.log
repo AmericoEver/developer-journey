@@ -1,1 +1,1 @@
-[2024-08-05T12:10:58+00:00] security: input sanitization, CSRF token and XSS protection
+[2024-08-08T17:25:55+00:00] feat: REST API endpoints and JSON response formatting
