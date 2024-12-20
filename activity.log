@@ -1,1 +1,1 @@
-[2024-12-20T16:45:44+00:00] feat: webhook listeners and async event dispatching
+[2024-12-20T18:19:42+00:00] security: input sanitization, CSRF token and XSS protection
