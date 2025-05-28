@@ -1,1 +1,1 @@
-[2025-05-27T14:11:59+00:00] feat: user authentication and role-based access control (RBAC)
+[2025-05-28T21:35:20+00:00] fix: resolve race conditions in inventory management
