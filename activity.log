@@ -1,1 +1,1 @@
-[2025-11-24T18:12:15+00:00] refactor: clean architecture and repository pattern implementation
+[2025-11-24T16:48:55+00:00] security: input sanitization, CSRF token and XSS protection
