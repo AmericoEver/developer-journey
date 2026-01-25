@@ -1,1 +1,1 @@
-[2026-01-24T21:31:55+00:00] feat: reporting dashboard and analytical charts
+[2026-01-25T20:33:50+00:00] security: input sanitization, CSRF token and XSS protection
