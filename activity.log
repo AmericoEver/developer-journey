@@ -1,1 +1,1 @@
-[2026-04-12T21:10:06+00:00] feat: webhook listeners and async event dispatching
+[2026-04-14T09:30:48+00:00] fix: resolve race conditions in inventory management
